@@ -8,4 +8,4 @@ Basically: does more playtime = higher rating?
 
 I’ll use Steam datasets from Kaggle, clean them, do a few charts, and try a simple correlation.
 
-tools would be used: Python, Pandas, Matplotlib, Jupyter Notebook
+tools would be used: Python, Pandas, Matplotlib, Jupyter Notebook etc.
