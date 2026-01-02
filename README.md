@@ -1,11 +1,11 @@
-# Steam Playtime vs Player Ratings  
-## Kerem Ersoy
-31225
-### DSA210 Project
+#Steam Playtime vs Player Ratings
 
-I’m checking if games that people play longer actually have better ratings on Steam.  
-Basically: does more playtime = higher rating?
+##Kerem Ersoy – 31225
+###DSA210 Project
 
-I’ll use Steam datasets from Kaggle, clean them, do a few charts, and try a simple correlation.
+This project analyzes whether longer playtime on Steam is associated with higher player ratings.
+Steam review data from Kaggle is used to explore the relationship between hours played and game recommendations.
 
-tools would be used: Python, Pandas, Matplotlib, Jupyter Notebook etc.
+The analysis includes data cleaning, basic visualizations, correlation analysis, and simple machine learning models (Logistic Regression and Random Forest).
+
+Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
