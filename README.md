@@ -135,3 +135,12 @@ This project aimed to determine whether playtime is a predictor of positive revi
 The analysis supports the hypothesis that there is a *difference* in playtime between the groups, but refutes the idea that playtime is a *strong predictor* of satisfaction. 
 
 While satisfied players may play longer on average, playtime alone cannot distinguish a positive review from a negative one with high confidence. A player might play for 100 hours and still leave a negative review due to a bad ending or a specific bug. Therefore, engagement metrics should be combined with sentiment analysis for a true understanding of player satisfaction.
+
+## Use of AI Tools
+AI-based tools were used **only as a supportive aid** during this project.  
+They were utilized to help with:
+- Code debugging and syntax suggestions  
+- Improving clarity and structure of explanations  
+- Brainstorming analysis ideas  
+
+All data analysis, model implementation, interpretation of results, and final conclusions were **designed, executed, and validated by me**.
